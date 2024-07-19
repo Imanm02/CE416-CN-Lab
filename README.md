@@ -9,6 +9,7 @@ This repository contains solutions to the assignments for the CE416: Computer Ne
 
 - [Overview](#overview)
 - [Practices](#practices)
+- [Instructions](#instructions)
 - [Exam](#exam)
 - [Notes](#notes)
 - [Source](#source)
@@ -17,6 +18,10 @@ This repository contains solutions to the assignments for the CE416: Computer Ne
 ## Practices
 
 The "Practices" folder contains the solutions to the practices that were given during the course.
+
+## Instructions
+
+The "Instructions" folder contains any additional course materials used in the practices.
 
 ## Exam
 
