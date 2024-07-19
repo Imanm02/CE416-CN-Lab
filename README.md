@@ -1,9 +1,9 @@
-# CE{Code of Course}-{Short Name of Course}
-Solutions to Prof. {Name of Prof}'s CE{Code of Course}: {Full Name of Course} ({Name of Uni} - {Semester} {Year}) Assignments
+# CE416-CN-Lab
+Solutions to Prof. Safaei's CE416: Computer Networks Lab (Sharif University of Technology - Summer 2024) Assignments
 
 ## Overview
 
-This repository contains solutions to the assignments for the CE{Code of Course}: {Full Name of Course} course at the {Name of Uni}, {Semester} {Year}, taught by Prof. {Name of Prof}.
+This repository contains solutions to the assignments for the CE416: Computer Networks Lab course at the Sharif University of Technology, Summer 2024, taught by Prof. Safaei.
 
 ## Table of Contents
 
