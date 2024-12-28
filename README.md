@@ -1,4 +1,4 @@
-# CE416-CN-Lab
+# CE416-CN Lab
 Solutions to Prof. Safaei's CE416: Computer Networks Lab (Sharif University of Technology - Summer 2024) Assignments
 
 ## Overview
